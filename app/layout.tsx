@@ -10,10 +10,12 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Luis Rodríguez | Personal Portfolio",
+title: "Luis Rodríguez | Personal Portfolio",
   description: "Luis Rodríguez es un ingeniero de sistemas con 4 años de experiencia en ciberseguridad, telecomunicaciones y programación.",
+  icons: {
+    icon: "/descarga.ico", // 👈 apunta a tu imagen personalizada
+  },
 };
-
 export default function RootLayout({
   children,
 }: {
