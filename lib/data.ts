@@ -93,6 +93,14 @@ export const projectsData = [
     imageUrl: "https://pub-c5d7ac2cc17a41d7806e24bef12dffe9.r2.dev/Captura3.JPG",
     link: "https://pcactiva.vercel.app/"
   },
+  {
+    title: "Gasolineria SV",
+    description:
+      "Una pagina web para saber gasolineria cerca en salvador",
+    tags: ["Java", "Next.js", "Spring Boot", "React"],
+    imageUrl: "https://f005.backblazeb2.com/file/rysolf/img/Captura2.JPG",
+    link: "https://gasolinasv.com/"
+  },
 ] as const;
 
 
