@@ -80,10 +80,10 @@ export const projectsData = [
   {
     title: "E-commerce Con WordPress",
     description:
-      "Cree una tienda online para hacer dropshipping.",
+      "Creamos esta tienda online para ofrecer productos reales con stock disponible en nuestra bodega Ahora gestionamos directamente el inventario para garantizar entregas más rápidas, mejor calidad y mayor confianza",
     tags: ["WordPress", "Hostinger", "Elementor", "WooCommerce", "PHP"],
-    imageUrl: "https://pub-c5d7ac2cc17a41d7806e24bef12dffe9.r2.dev/Captura1.JPG",
-    link: "https://tiendaco.space/"
+    imageUrl: "https://f005.backblazeb2.com/file/rysolf/img/Captura.JPG",
+    link: "https://xsupplystore.com/"
   },
   {
     title: "PC Activa",
