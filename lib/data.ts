@@ -80,7 +80,7 @@ export const projectsData = [
   {
     title: "E-commerce Con WordPress",
     description:
-      "Creamos esta tienda online para ofrecer productos reales con stock disponible en nuestra bodega Ahora gestionamos directamente el inventario para garantizar entregas más rápidas, mejor calidad y mayor confianza",
+      "Desarrollo profesional de sitio web para comercio electrónico",
     tags: ["WordPress", "Hostinger", "Elementor", "WooCommerce", "PHP"],
     imageUrl: "https://f005.backblazeb2.com/file/rysolf/img/Captura.JPG",
     link: "https://xsupplystore.com/"
