@@ -61,8 +61,8 @@ export default function Intro() {
   initial={{ opacity: 0, y: 100 }}
   animate={{ opacity: 1, y: 0 }}
 >
-  <span className="font-bold">Hola, soy Luis Rodríguez.</span> Ingeniero de Sistemas con{" "}
-  <span className="font-bold">4+ años</span> de experiencia en{" "}
+  <span className="font-bold">Hola, soy Luis Rodríguez.</span> Ingeniero de Sistemas {" "}
+  <span className="font-bold">con conocimiento en </span> {" "}
   <span className="font-bold">programación, con conocimiento tambien en telecomunicaciones</span> y{" "}
   <span className="font-bold">ciberseguridad</span>.
 </motion.h1>
