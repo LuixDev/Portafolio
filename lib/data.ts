@@ -70,37 +70,30 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Red Social Con Mapas",
+    title: "App Red Social Con Mapas",
     description:
       "Una plataforma social diseñada para negocios y usuarios que permite buscar y descubrir negocios cercanos mediante un mapa interactivo.",
     tags: ["Angular", "Ionic", "Python", "PostgreSQL", "Rust"],
     imageUrl: "https://pub-c5d7ac2cc17a41d7806e24bef12dffe9.r2.dev/Captura.JPG", // ✅ Ruta correcta con comillas y slash
     link: "https://netstore-b5495.web.app/" // ✅ Botón para visitar
   },
-  {
-    title: "E-commerce Con WordPress",
-    description:
-      "Desarrollo profesional de sitio web para comercio electrónico",
-    tags: ["WordPress", "Hostinger", "Elementor", "WooCommerce", "PHP"],
-    imageUrl: "https://f005.backblazeb2.com/file/rysolf/img/Captura.JPG",
-    link: "https://xsupplystore.com/"
-  },
-  {
-    title: "PC Activa",
-    description:
-      "Es un software que mueve el mouse por un cierto periodo de tiempo, realizado con Angular Web y Python puro. Manipula el mouse automáticamente.",
-    tags: ["Angular", "Python"],
-    imageUrl: "https://pub-c5d7ac2cc17a41d7806e24bef12dffe9.r2.dev/Captura3.JPG",
-    link: "https://pcactiva.vercel.app/"
-  },
-  {
-    title: "Gasolineria SV",
-    description:
-      "Una pagina web para saber gasolineria cerca en salvador",
-    tags: ["Java", "Next.js", "Spring Boot", "React"],
-    imageUrl: "https://f005.backblazeb2.com/file/rysolf/img/Captura2.JPG",
-    link: "https://gasolinasv.com/"
-  },
+{
+  title: "SQLCloud",
+  description:
+    "Plataforma Backend-as-a-Service diseñada para la gestión escalable de bases de datos MySQL en la nube.",
+  tags: ["MySQL", "Cloud", "Docker", "Node.js", "BaaS"],
+  imageUrl: "https://pub-c5d7ac2cc17a41d7806e24bef12dffe9.r2.dev/preview.webp",
+  link: "https://sqlcloud.sbs/"
+},
+{
+  title: "SmartAPI",
+  description:
+    "Infraestructura de API robusta para la integración de servicios inteligentes y automatización de procesos.",
+  tags: ["API", "Backend", "Python", "Automation", "REST"],
+  imageUrl: "https://api.microlink.io/?url=https://smartapi.sbs&screenshot=true&meta=false&embed=screenshot.url",
+  link: "https://smartapi.sbs/"
+},
+
 ] as const;
 
 
