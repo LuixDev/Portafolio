@@ -90,7 +90,7 @@ export const projectsData = [
   description:
     "Infraestructura de API robusta para la integración de servicios inteligentes y automatización de procesos.",
   tags: ["API", "Backend", "Python", "Automation", "REST"],
-  imageUrl: "https://api.microlink.io/?url=https://smartapi.sbs&screenshot=true&meta=false&embed=screenshot.url",
+  imageUrl: "https://pub-c5d7ac2cc17a41d7806e24bef12dffe9.r2.dev/Captura.JPG",
   link: "https://smartapi.sbs/"
 },
 
