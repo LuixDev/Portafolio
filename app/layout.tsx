@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
 title: "Luis Rodríguez | Personal Portfolio",
-  description: "Luis Rodríguez es un ingeniero de sistemas con 4 años de experiencia en ciberseguridad, telecomunicaciones y programación.",
+  description: "Luis Rodríguez es un ingeniero de sistemas con 2 años de experiencia en ciberseguridad, telecomunicaciones y programación.",
   icons: {
     icon: "/descarga.ico", // 👈 apunta a tu imagen personalizada
   },
