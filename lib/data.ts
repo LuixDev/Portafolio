@@ -74,7 +74,7 @@ export const projectsData = [
     description:
       "Una plataforma social diseñada para negocios y usuarios que permite buscar y descubrir negocios cercanos mediante un mapa interactivo.",
     tags: ["Angular", "Ionic", "Python", "PostgreSQL", "Rust"],
-    imageUrl: "", // ✅ Ruta correcta con comillas y slash
+    imageUrl: "https://pub-c5d7ac2cc17a41d7806e24bef12dffe9.r2.dev/netstore.JPG", // ✅ Ruta correcta con comillas y slash
     link: "https://netstore-b5495.web.app/" 
   },
 {
